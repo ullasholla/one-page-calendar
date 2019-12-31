@@ -1,0 +1,6 @@
+* Description
+This is a one-page calendar for 2020 inspired by https://davebakker.io/onepagecalendar/
+
+This repo fixes the repetition of =18=.
+
+HN discussion here: https://news.ycombinator.com/item?id=21921165
